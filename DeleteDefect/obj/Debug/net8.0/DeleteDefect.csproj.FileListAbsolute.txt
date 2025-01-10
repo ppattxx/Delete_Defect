@@ -1,0 +1,182 @@
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\appsettings.Development.json
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\appsettings.json
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.staticwebassets.runtime.json
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.staticwebassets.endpoints.json
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.exe
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.deps.json
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.runtimeconfig.json
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.pdb
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.AssemblyInfoInputs.cache
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.AssemblyInfo.cs
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.csproj.CoreCompileInputs.cache
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.MvcApplicationPartsAssemblyInfo.cache
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.RazorAssemblyInfo.cache
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.RazorAssemblyInfo.cs
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\scopedcss\bundle\DeleteDefect.styles.css
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\scopedcss\projectbundle\DeleteDefect.bundle.scp.css
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.build.json
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.development.json
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets\msbuild.DeleteDefect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets\msbuild.DeleteDefect.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets\msbuild.build.DeleteDefect.props
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DeleteDefect.props
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DeleteDefect.props
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\refint\DeleteDefect.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.pdb
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.genruntimeconfig.cache
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\ref\DeleteDefect.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.csproj.AssemblyReference.cache
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Azure.Core.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Azure.Identity.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.ClientModel.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Text.Json.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDe.243129DA.Up2Date
+C:\Kuliah\Belajar C#\DeleteDefect\DeleteDefect\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.staticwebassets.runtime.json
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.staticwebassets.endpoints.json
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.exe
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.deps.json
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.runtimeconfig.json
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\DeleteDefect.pdb
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\scopedcss\bundle\DeleteDefect.styles.css
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\scopedcss\projectbundle\DeleteDefect.bundle.scp.css
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets\msbuild.DeleteDefect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets\msbuild.DeleteDefect.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets\msbuild.build.DeleteDefect.props
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DeleteDefect.props
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DeleteDefect.props
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDe.243129DA.Up2Date
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\refint\DeleteDefect.dll
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.pdb
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\DeleteDefect\DeleteDefect\DeleteDefect\obj\Debug\net8.0\ref\DeleteDefect.dll

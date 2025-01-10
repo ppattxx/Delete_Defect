@@ -1,0 +1,64 @@
+﻿@using Azure.Core
+@model IEnumerable<DefectModel>
+
+<div class="container">
+    <h1 class="text-center my-4">Defect Record</h1>
+
+    <!-- Total Defect and Date Filter Section -->
+    <div class="d-flex justify-content-between align-items-center mb-4 p-3 rounded" style="background-color: #f0f8ff; border: 1px solid #007bff;">
+        <div>
+            <h4 style="color: #007bff; font-weight: bold;">TOTAL DEFECT TODAY: <span style="font-size: 1.5rem;">@Model.Count()</span></h4>
+        </div>
+        <div>
+            <label for="selectedDate" class="me-2" style="font-weight: bold; color: #0056b3;">Pilih Tanggal:</label>
+            <form method="get" action="/Defect/Selected" style="display: inline-block;">
+                <input type="date"
+                       id="selectedDate"
+                       name="selectedDate"
+                       onchange="this.form.submit()"
+                       value="@ViewData["SelectedDate"]"
+                       class="form-control d-inline-block"
+                       style="width: auto;" />
+            </form>
+        </div>
+    </div>
+
+    <!-- Table Section -->
+    <table class="table table-striped table-bordered">
+        <thead class="table-primary text-center">
+            <tr>
+                <th>No</th>
+                <th>Id</th>
+                <th>DateTime</th>
+                <th>ModelCode</th>
+                <th>SerialNumber</th>
+                <th>DefectId</th>
+                <th>InspectorId</th>
+                <th>ModelNumber</th>
+                <th>Location</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model.Select((value, index) => new { value, index }))
+            {
+                <tr>
+                    <td class="text-center">@(product.index + 1)</td>
+                    <td>@product.value.Id</td>
+                    <td>@product.value.DateTime</td>
+                    <td>@product.value.ModelCode</td>
+                    <td>@product.value.SerialNumber</td>
+                    <td>@product.value.DefectId</td>
+                    <td>@product.value.InspectorId</td>
+                    <td>@product.value.ModelNumber</td>
+                    <td>@product.value.Location?.LocationName</td>
+                    <td class="text-center">
+                        <form action="/Defect/Delete/@product.value.Id" method="post" onsubmit="return confirm('Are you sure you want to delete this item?');">
+                            <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
