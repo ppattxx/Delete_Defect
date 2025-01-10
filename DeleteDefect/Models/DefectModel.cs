@@ -12,6 +12,8 @@ namespace DeleteDefect.Models
         public string InspectorId { get; set; }
         public string ModelNumber { get; set; }
         public int LocationId { get; set; }
+        public InspectorModel Inspector { get; set; }
         public LocationModel Location { get; set; }
+        public DefectNameModel Defect { get; set; }
     }
 }

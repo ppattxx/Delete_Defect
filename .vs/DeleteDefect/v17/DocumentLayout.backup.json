@@ -1,49 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\",
+  "WorkspaceRootPath": "D:\\panasonic\\DeleteDefect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\views\\defect\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\views\\defect\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\controllers\\defectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\controllers\\defectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\models\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\models\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\models\\defectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\models\\defectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|c:\\users\\asus\\downloads\\deletedefect\\deletedefect\\deletedefect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\views\\defect\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\views\\defect\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\controllers\\defectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\controllers\\defectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\models\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\models\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\models\\defectnamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\models\\defectnamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\models\\inspectormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\models\\inspectormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\models\\defectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\models\\defectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|d:\\panasonic\\deletedefect\\deletedefect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F91B710-16A6-4A16-B020-CDDC957EC6F7}|DeleteDefect\\DeleteDefect.csproj|solutionrelative:deletedefect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,37 +70,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DeleteDefect\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DeleteDefect\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T04:20:20.686Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Views\\Defect\\Index.cshtml",
+              "RelativeDocumentMoniker": "DeleteDefect\\Views\\Defect\\Index.cshtml",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Views\\Defect\\Index.cshtml",
+              "RelativeToolTip": "DeleteDefect\\Views\\Defect\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T04:39:37.206Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InspectorModel.cs",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Models\\InspectorModel.cs",
+              "RelativeDocumentMoniker": "DeleteDefect\\Models\\InspectorModel.cs",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Models\\InspectorModel.cs",
+              "RelativeToolTip": "DeleteDefect\\Models\\InspectorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:11:50.267Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DeleteDefect\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DeleteDefect\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T04:38:21.465Z",
+              "Title": "DefectController.cs",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Controllers\\DefectController.cs",
+              "RelativeDocumentMoniker": "DeleteDefect\\Controllers\\DefectController.cs",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Controllers\\DefectController.cs",
+              "RelativeToolTip": "DeleteDefect\\Controllers\\DefectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:34:40.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DefectModel.cs",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Models\\DefectModel.cs",
+              "RelativeDocumentMoniker": "DeleteDefect\\Models\\DefectModel.cs",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Models\\DefectModel.cs",
+              "RelativeToolTip": "DeleteDefect\\Models\\DefectModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:28:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationModel.cs",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Models\\LocationModel.cs",
+              "RelativeDocumentMoniker": "DeleteDefect\\Models\\LocationModel.cs",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Models\\LocationModel.cs",
+              "RelativeToolTip": "DeleteDefect\\Models\\LocationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:30:20.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DeleteDefect\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DeleteDefect\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:20:20.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\appsettings.json",
+              "RelativeDocumentMoniker": "DeleteDefect\\appsettings.json",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\appsettings.json",
+              "RelativeToolTip": "DeleteDefect\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T04:25:01.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DefectNameModel.cs",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Models\\DefectNameModel.cs",
+              "RelativeDocumentMoniker": "DeleteDefect\\Models\\DefectNameModel.cs",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Models\\DefectNameModel.cs",
+              "RelativeToolTip": "DeleteDefect\\Models\\DefectNameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:50:08.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "DeleteDefect\\Data\\DbContext.cs",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Data\\DbContext.cs",
+              "RelativeToolTip": "DeleteDefect\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:30:36.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Program.cs",
+              "RelativeDocumentMoniker": "DeleteDefect\\Program.cs",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Program.cs",
+              "RelativeToolTip": "DeleteDefect\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:32:27.096Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DeleteDefect\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DeleteDefect\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T07:20:15.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "DeleteDefect\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "DeleteDefect\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,107 +217,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "DeleteDefect\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DeleteDefect\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DeleteDefect\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DeleteDefect\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T07:20:15.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\appsettings.json",
-              "RelativeDocumentMoniker": "DeleteDefect\\appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\appsettings.json",
-              "RelativeToolTip": "DeleteDefect\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-09T04:25:01.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Program.cs",
-              "RelativeDocumentMoniker": "DeleteDefect\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Program.cs",
-              "RelativeToolTip": "DeleteDefect\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T04:32:27.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DefectController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Controllers\\DefectController.cs",
-              "RelativeDocumentMoniker": "DeleteDefect\\Controllers\\DefectController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Controllers\\DefectController.cs",
-              "RelativeToolTip": "DeleteDefect\\Controllers\\DefectController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T04:34:40.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Views\\Defect\\Index.cshtml",
-              "RelativeDocumentMoniker": "DeleteDefect\\Views\\Defect\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Views\\Defect\\Index.cshtml*",
-              "RelativeToolTip": "DeleteDefect\\Views\\Defect\\Index.cshtml*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAmwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T04:39:37.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DefectModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Models\\DefectModel.cs",
-              "RelativeDocumentMoniker": "DeleteDefect\\Models\\DefectModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Models\\DefectModel.cs",
-              "RelativeToolTip": "DeleteDefect\\Models\\DefectModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T04:28:20.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Data\\DbContext.cs",
-              "RelativeDocumentMoniker": "DeleteDefect\\Data\\DbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Data\\DbContext.cs",
-              "RelativeToolTip": "DeleteDefect\\Data\\DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T04:30:36.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LocationModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Models\\LocationModel.cs",
-              "RelativeDocumentMoniker": "DeleteDefect\\Models\\LocationModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DeleteDefect\\DeleteDefect\\DeleteDefect\\Models\\LocationModel.cs",
-              "RelativeToolTip": "DeleteDefect\\Models\\LocationModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T01:30:20.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T04:38:21.465Z"
             }
           ]
         },

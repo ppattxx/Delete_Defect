@@ -1,4 +1,6 @@
-﻿using DeleteDefect.Models;
+﻿using System.Globalization;
+using System.Text;
+using DeleteDefect.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -15,9 +17,17 @@ namespace DeleteDefect.Controllers
 
         public async Task<IActionResult> Index()
         {
-            // Mengambil Defect_Results beserta LocationName menggunakan Include
+            var selectedDate = DateTime.Now.Date;
+
+            // Menyimpan tanggal yang dipilih pada ViewData agar tetap muncul di form
+            ViewData["SelectedDate"] = selectedDate.ToString("yyyy-MM-dd");
+
+            // Mengambil Defect_Results dengan filter berdasarkan hari ini dan Join dengan tabel Locations
             var products = await _context.Defect_Results
+                .Where(d => d.DateTime.Date == selectedDate)  // Filter berdasarkan tanggal hari ini
                 .Include(d => d.Location) // Join dengan tabel Locations
+                .Include(d => d.Defect)
+                .Include(d => d.Inspector)
                 .ToListAsync();
 
             return View(products);
@@ -25,30 +35,26 @@ namespace DeleteDefect.Controllers
 
         public async Task<IActionResult> Selected(DateTime? selectedDate)
         {
+            // Simpan tanggal yang dipilih agar tetap muncul di form
             ViewData["SelectedDate"] = selectedDate?.ToString("yyyy-MM-dd");
 
-            IQueryable<DefectModel> defects;
+            // Default ke tanggal hari ini jika tidak ada tanggal yang dipilih
+            var dateToFilter = selectedDate ?? DateTime.Now.Date;
 
-            if (selectedDate.HasValue)
-            {
-                defects = _context.Defect_Results
-                    .Include(d => d.Location) // Join dengan tabel Locations
-                    .Where(d => d.DateTime.Date == selectedDate.Value.Date);
-            }
-            else
-            {
-                defects = _context.Defect_Results
-                    .Include(d => d.Location); // Join dengan tabel Locations
-            }
+            // Filter data berdasarkan tanggal
+            var defects = await _context.Defect_Results
+                .Where(d => d.DateTime.Date == dateToFilter)
+                .Include(d => d.Location)
+                .Include(d => d.Defect)
+                .Include(d => d.Inspector)
+                .ToListAsync();
 
-            var defectList = await defects.ToListAsync();
-
-            return View("Index", defectList);
+            return View("Index", defects);
         }
 
         [HttpPost]
         [ActionName("Delete")]
-        public IActionResult DeleteConfirmed(int id)
+        public IActionResult DeleteConfirmed(int id, string? selectedDate)
         {
             var product = _context.Defect_Results.FirstOrDefault(p => p.Id == id);
 
@@ -60,7 +66,61 @@ namespace DeleteDefect.Controllers
             _context.Defect_Results.Remove(product);
             _context.SaveChanges();
 
+            // Redirect ke halaman Selected jika ada tanggal yang dipilih
+            if (!string.IsNullOrEmpty(selectedDate))
+            {
+                return RedirectToAction("Selected", new { selectedDate });
+            }
+
+            // Redirect ke Index jika tidak ada tanggal yang dipilih
             return RedirectToAction("Index");
+        }
+        public async Task<IActionResult> ExportToCsv(DateTime? selectedDate)
+        {
+            if (!selectedDate.HasValue)
+            {
+                return BadRequest("Tanggal tidak valid.");
+            }
+
+            // Filter data berdasarkan tanggal yang dipilih
+            var defects = await _context.Defect_Results
+                .Where(d => d.DateTime.Date == selectedDate.Value.Date)
+                .Include(d => d.Location)
+                .Include(d => d.Defect)
+                .Include(d => d.Inspector)
+                .ToListAsync();
+
+            // Jika tidak ada data, berikan pesan
+            if (!defects.Any())
+            {
+                return NotFound("Tidak ada data pada tanggal yang dipilih.");
+            }
+
+            // Buat header CSV
+            var csvBuilder = new StringBuilder();
+            csvBuilder.AppendLine("Id,Tanggal,Waktu,ModelCode,SerialNumber,DefectName,InspectorName,ModelNumber,LocationName");
+
+            // Isi data CSV
+            foreach (var defect in defects)
+            {
+                csvBuilder.AppendLine(string.Join(",",
+                    defect.Id,
+                    defect.DateTime.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture), // Tanggal
+                    defect.DateTime.ToString("HH:mm", CultureInfo.InvariantCulture), // Waktu 24 jam
+                    defect.ModelCode,
+                    defect.SerialNumber,
+                    defect.Defect?.DefectName,
+                    defect.Inspector?.Name,
+                    defect.ModelNumber,
+                    defect.Location?.LocationName
+                ));
+            }
+
+            // Konversi ke byte array dan kembalikan sebagai file
+            var fileBytes = Encoding.UTF8.GetBytes(csvBuilder.ToString());
+            var fileName = $"Defects_{selectedDate.Value:yyyy-MM-dd}.csv";
+
+            return File(fileBytes, "text/csv", fileName);
         }
     }
 }
