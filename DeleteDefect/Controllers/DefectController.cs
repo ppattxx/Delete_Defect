@@ -98,21 +98,21 @@ namespace DeleteDefect.Controllers
 
             // Buat header CSV
             var csvBuilder = new StringBuilder();
-            csvBuilder.AppendLine("Id,Tanggal,Waktu,ModelCode,SerialNumber,DefectName,InspectorName,ModelNumber,LocationName");
+            csvBuilder.AppendLine("\"Id\",\"Tanggal\",\"Waktu\",\"ModelCode\",\"SerialNumber\",\"DefectName\",\"InspectorName\",\"ModelNumber\",\"LocationName\"");
 
             // Isi data CSV
             foreach (var defect in defects)
             {
                 csvBuilder.AppendLine(string.Join(",",
-                    defect.Id,
-                    defect.DateTime.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture), // Tanggal
-                    defect.DateTime.ToString("HH:mm", CultureInfo.InvariantCulture), // Waktu 24 jam
-                    defect.ModelCode,
-                    defect.SerialNumber,
-                    defect.Defect?.DefectName,
-                    defect.Inspector?.Name,
-                    defect.ModelNumber,
-                    defect.Location?.LocationName
+                    $"\"{defect.Id}\"",
+                    $"\"{defect.DateTime.ToString("dd MMMM yyyy", CultureInfo.InvariantCulture)}\"", // Tanggal dalam format "10 Januari 2025"
+                    $"\"{defect.DateTime.ToString("HH:mm", CultureInfo.InvariantCulture)}\"", // Waktu 24 jam
+                    $"\"{defect.ModelCode}\"",
+                    $"\"{defect.SerialNumber}\"",
+                    $"\"{defect.Defect?.DefectName}\"",
+                    $"\"{defect.Inspector?.Name}\"",
+                    $"\"{defect.ModelNumber}\"",
+                    $"\"{defect.Location?.LocationName}\""
                 ));
             }
 
@@ -122,5 +122,6 @@ namespace DeleteDefect.Controllers
 
             return File(fileBytes, "text/csv", fileName);
         }
+
     }
 }
