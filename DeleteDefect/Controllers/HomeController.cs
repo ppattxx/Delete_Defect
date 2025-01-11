@@ -3,6 +3,7 @@ using DeleteDefect.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using BCrypt.Net;
+using DeleteDefect.Data;
 
 namespace DeleteDefect.Controllers
 {

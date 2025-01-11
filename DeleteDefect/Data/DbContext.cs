@@ -1,6 +1,7 @@
 ﻿using DeleteDefect.Models;
 using Microsoft.EntityFrameworkCore;
 
+namespace DeleteDefect.Data;
 public class ApplicationDbContext : DbContext
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)

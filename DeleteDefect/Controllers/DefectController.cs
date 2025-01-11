@@ -3,6 +3,7 @@ using System.Text;
 using DeleteDefect.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using DeleteDefect.Data;
 
 namespace DeleteDefect.Controllers
 {
@@ -105,7 +106,6 @@ namespace DeleteDefect.Controllers
             {
                 csvBuilder.AppendLine(string.Join(",",
                     $"\"{index}\"",
-                    $"\"{defect.Id}\"",
                     $"\"{defect.DateTime.ToString("dd MMM yy", CultureInfo.InvariantCulture)}\"", // Tanggal dalam format "13 Sep 24"
                     $"\"{defect.DateTime.ToString("HH:mm:ss", CultureInfo.InvariantCulture)}\"", // Waktu 24 jam dengan detik
                     $"\"{defect.ModelCode}\"",
