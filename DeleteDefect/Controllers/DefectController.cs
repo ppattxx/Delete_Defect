@@ -98,15 +98,16 @@ namespace DeleteDefect.Controllers
 
             // Buat header CSV
             var csvBuilder = new StringBuilder();
-            csvBuilder.AppendLine("\"Id\",\"Tanggal\",\"Waktu\",\"ModelCode\",\"SerialNumber\",\"DefectName\",\"InspectorName\",\"ModelNumber\",\"LocationName\"");
+            csvBuilder.AppendLine("\"No\",\"Id\",\"Tanggal\",\"Waktu\",\"ModelCode\",\"SerialNumber\",\"DefectName\",\"InspectorName\",\"ModelNumber\",\"LocationName\"");
 
-            // Isi data CSV
+            int index = 1;
             foreach (var defect in defects)
             {
                 csvBuilder.AppendLine(string.Join(",",
+                    $"\"{index}\"",
                     $"\"{defect.Id}\"",
-                    $"\"{defect.DateTime.ToString("dd MMMM yyyy", CultureInfo.InvariantCulture)}\"", // Tanggal dalam format "10 Januari 2025"
-                    $"\"{defect.DateTime.ToString("HH:mm", CultureInfo.InvariantCulture)}\"", // Waktu 24 jam
+                    $"\"{defect.DateTime.ToString("dd MMM yy", CultureInfo.InvariantCulture)}\"", // Tanggal dalam format "13 Sep 24"
+                    $"\"{defect.DateTime.ToString("HH:mm:ss", CultureInfo.InvariantCulture)}\"", // Waktu 24 jam dengan detik
                     $"\"{defect.ModelCode}\"",
                     $"\"{defect.SerialNumber}\"",
                     $"\"{defect.Defect?.DefectName}\"",
@@ -114,6 +115,7 @@ namespace DeleteDefect.Controllers
                     $"\"{defect.ModelNumber}\"",
                     $"\"{defect.Location?.LocationName}\""
                 ));
+                index++; // Increment nomor
             }
 
             // Konversi ke byte array dan kembalikan sebagai file

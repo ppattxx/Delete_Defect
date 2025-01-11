@@ -278,3 +278,4 @@ D:\panasonic\DeleteDefect\DeleteDefect\obj\Debug\net8.0\staticwebassets.upToDate
 D:\panasonic\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDe.243129DA.Up2Date
 D:\panasonic\DeleteDefect\DeleteDefect\obj\Debug\net8.0\DeleteDefect.genruntimeconfig.cache
 D:\panasonic\DeleteDefect\DeleteDefect\obj\Debug\net8.0\ref\DeleteDefect.dll
+D:\panasonic\DeleteDefect\DeleteDefect\bin\Debug\net8.0\BCrypt.Net-Core.dll

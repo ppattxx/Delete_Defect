@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "U9g+fIq1SRk=",
+  "dgSpecHash": "UPC+WQDyExs=",
   "success": true,
   "projectFilePath": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\DeleteDefect.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\epplus\\7.5.2\\epplus.7.5.2.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\epplus.interfaces\\7.5.0\\epplus.interfaces.7.5.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\epplus.system.drawing\\7.5.0\\epplus.system.drawing.7.5.0.nupkg.sha512",

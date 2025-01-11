@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\DeleteDefect.3hi38rjilb.bundle.scp.css"
     },
     {
+      "Id": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\hide.png",
+      "PackagePath": "staticwebassets\\Source\\hide.png"
+    },
+    {
+      "Id": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\padlock.png",
+      "PackagePath": "staticwebassets\\Source\\padlock.png"
+    },
+    {
+      "Id": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\show.png",
+      "PackagePath": "staticwebassets\\Source\\show.png"
+    },
+    {
+      "Id": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\worker.png",
+      "PackagePath": "staticwebassets\\Source\\worker.png"
+    },
+    {
       "Id": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

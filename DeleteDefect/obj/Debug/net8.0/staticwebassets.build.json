@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xvW1NqbcavRFnmOC0s7ANqOljpwfOU/+s7DivdbWTMs=",
+  "Hash": "eNLdF9rnN1jayoMmtoSiN6uvGLr3vaTlD5MGZR66fzw=",
   "Source": "DeleteDefect",
   "BasePath": "_content/DeleteDefect",
   "Mode": "Default",
@@ -1317,6 +1317,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\hide.png",
+      "SourceId": "DeleteDefect",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\",
+      "BasePath": "_content/DeleteDefect",
+      "RelativePath": "Source/hide#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "shjxn57pto",
+      "Integrity": "EMSqvOWyRv+NNURuAMqE1hPCagMvfq0xcQKx7qA9hVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Source\\hide.png"
+    },
+    {
+      "Identity": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\padlock.png",
+      "SourceId": "DeleteDefect",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\",
+      "BasePath": "_content/DeleteDefect",
+      "RelativePath": "Source/padlock#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y4kr67mnx8",
+      "Integrity": "Tv+DIdzCgwS1jYQGOiORvPtXVSmYhFmiw8YNXGQ9tTM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Source\\padlock.png"
+    },
+    {
+      "Identity": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\show.png",
+      "SourceId": "DeleteDefect",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\",
+      "BasePath": "_content/DeleteDefect",
+      "RelativePath": "Source/show#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wonx3se95z",
+      "Integrity": "MOkSkfM7wZp2OgHWfPITzqklzdVRZDF3eIjgsiHiyUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Source\\show.png"
+    },
+    {
+      "Identity": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\worker.png",
+      "SourceId": "DeleteDefect",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\",
+      "BasePath": "_content/DeleteDefect",
+      "RelativePath": "Source/worker#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "54aucci25r",
+      "Integrity": "tWo1bzlmI8FGnZELAKMrNa9NxWwMvfWQ5jk1DRq0JAo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Source\\worker.png"
     }
   ],
   "Endpoints": [
@@ -6401,6 +6485,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "Source/hide.png",
+      "AssetFile": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\hide.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EMSqvOWyRv+NNURuAMqE1hPCagMvfq0xcQKx7qA9hVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 07:13:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EMSqvOWyRv+NNURuAMqE1hPCagMvfq0xcQKx7qA9hVU="
+        }
+      ]
+    },
+    {
+      "Route": "Source/hide.shjxn57pto.png",
+      "AssetFile": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\hide.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EMSqvOWyRv+NNURuAMqE1hPCagMvfq0xcQKx7qA9hVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 07:13:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "shjxn57pto"
+        },
+        {
+          "Name": "label",
+          "Value": "Source/hide.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EMSqvOWyRv+NNURuAMqE1hPCagMvfq0xcQKx7qA9hVU="
+        }
+      ]
+    },
+    {
+      "Route": "Source/padlock.png",
+      "AssetFile": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\padlock.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tv+DIdzCgwS1jYQGOiORvPtXVSmYhFmiw8YNXGQ9tTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jul 2024 08:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tv+DIdzCgwS1jYQGOiORvPtXVSmYhFmiw8YNXGQ9tTM="
+        }
+      ]
+    },
+    {
+      "Route": "Source/padlock.y4kr67mnx8.png",
+      "AssetFile": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\padlock.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tv+DIdzCgwS1jYQGOiORvPtXVSmYhFmiw8YNXGQ9tTM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jul 2024 08:25:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y4kr67mnx8"
+        },
+        {
+          "Name": "label",
+          "Value": "Source/padlock.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tv+DIdzCgwS1jYQGOiORvPtXVSmYhFmiw8YNXGQ9tTM="
+        }
+      ]
+    },
+    {
+      "Route": "Source/show.png",
+      "AssetFile": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\show.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MOkSkfM7wZp2OgHWfPITzqklzdVRZDF3eIjgsiHiyUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 07:13:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MOkSkfM7wZp2OgHWfPITzqklzdVRZDF3eIjgsiHiyUE="
+        }
+      ]
+    },
+    {
+      "Route": "Source/show.wonx3se95z.png",
+      "AssetFile": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\show.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MOkSkfM7wZp2OgHWfPITzqklzdVRZDF3eIjgsiHiyUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Jun 2024 07:13:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wonx3se95z"
+        },
+        {
+          "Name": "label",
+          "Value": "Source/show.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MOkSkfM7wZp2OgHWfPITzqklzdVRZDF3eIjgsiHiyUE="
+        }
+      ]
+    },
+    {
+      "Route": "Source/worker.54aucci25r.png",
+      "AssetFile": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\worker.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tWo1bzlmI8FGnZELAKMrNa9NxWwMvfWQ5jk1DRq0JAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jul 2024 08:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "54aucci25r"
+        },
+        {
+          "Name": "label",
+          "Value": "Source/worker.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tWo1bzlmI8FGnZELAKMrNa9NxWwMvfWQ5jk1DRq0JAo="
+        }
+      ]
+    },
+    {
+      "Route": "Source/worker.png",
+      "AssetFile": "D:\\panasonic\\DeleteDefect\\DeleteDefect\\wwwroot\\Source\\worker.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tWo1bzlmI8FGnZELAKMrNa9NxWwMvfWQ5jk1DRq0JAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Jul 2024 08:22:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tWo1bzlmI8FGnZELAKMrNa9NxWwMvfWQ5jk1DRq0JAo="
         }
       ]
     }

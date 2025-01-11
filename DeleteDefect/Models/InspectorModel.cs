@@ -1,9 +1,13 @@
-﻿namespace DeleteDefect.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+public class InspectorModel
 {
-    public class InspectorModel
-    {
-        public String id { get; set; }
-        public string NIK { get; set; }
-        public string Name { get; set; }
-    }
+    [Key]
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Auto-increment
+    public int Id { get; set; }
+
+    required public string PasswordHash { get; set; }
+    required public string NIK { get; set; }
+    required public string Name { get; set; }
 }
