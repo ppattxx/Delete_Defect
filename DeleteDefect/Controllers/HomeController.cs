@@ -30,7 +30,8 @@ namespace DeleteDefect.Controllers
             return View();
         }
 
-        // Login Logic
+        // POST: Login Logic
+        [HttpPost]
         public IActionResult Login(string Username, string Password)
         {
             var user = GetUserByUsername(Username);
@@ -39,11 +40,17 @@ namespace DeleteDefect.Controllers
             {
                 if (BCrypt.Net.BCrypt.Verify(Password, user.PasswordHash))
                 {
-                    // Simpan informasi user ke session
+                    // Tentukan role berdasarkan NIK
+                    string[] adminPrefixes = { "7098", "6950", "7217" };
+                    string role = adminPrefixes.Any(prefix => user.NIK.StartsWith(prefix)) ? "Admin" : "User";
+
+
+                    // Simpan informasi user dan role ke session
                     HttpContext.Session.SetString("UserNIK", user.NIK);
                     HttpContext.Session.SetString("UserName", user.Name);
+                    HttpContext.Session.SetString("UserRole", role);
 
-                    return RedirectToAction("Index", "Defect");
+                    return RedirectToAction("Index", "Defect"); // Redirect ke halaman utama sesuai role
                 }
 
                 ViewData["ErrorMessage"] = "Invalid NIK or password.";

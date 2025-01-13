@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\panasonic\\Delete_Defects\\DeleteDefect\\DeleteDefect.csproj": {}
+    "C:\\Kuliah\\Belajar C#\\Delete_Defects\\DeleteDefect\\DeleteDefect.csproj": {}
   },
   "projects": {
-    "D:\\panasonic\\Delete_Defects\\DeleteDefect\\DeleteDefect.csproj": {
+    "C:\\Kuliah\\Belajar C#\\Delete_Defects\\DeleteDefect\\DeleteDefect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\panasonic\\Delete_Defects\\DeleteDefect\\DeleteDefect.csproj",
+        "projectUniqueName": "C:\\Kuliah\\Belajar C#\\Delete_Defects\\DeleteDefect\\DeleteDefect.csproj",
         "projectName": "DeleteDefect",
-        "projectPath": "D:\\panasonic\\Delete_Defects\\DeleteDefect\\DeleteDefect.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\panasonic\\Delete_Defects\\DeleteDefect\\obj\\",
+        "projectPath": "C:\\Kuliah\\Belajar C#\\Delete_Defects\\DeleteDefect\\DeleteDefect.csproj",
+        "packagesPath": "C:\\Users\\DAVA RAJIF C\\.nuget\\packages\\",
+        "outputPath": "C:\\Kuliah\\Belajar C#\\Delete_Defects\\DeleteDefect\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DAVA RAJIF C\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
