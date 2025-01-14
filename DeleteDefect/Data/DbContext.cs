@@ -16,10 +16,10 @@ public class ApplicationDbContext : DbContext
     {
         // Konfigurasi join berdasarkan kolom `InspectorNIK` dan `NIK`
         modelBuilder.Entity<DefectModel>()
-            .HasOne(d => d.Inspector) // Properti navigasi ke Inspector
-            .WithMany() // Tidak ada properti navigasi balik di Inspector
-            .HasForeignKey(d => d.InspectorId) // Kolom foreign key di Defect_Results
-            .HasPrincipalKey(i => i.NIK); // Kolom primary key di Inspectors
+            .HasOne(d => d.Inspector)
+            .WithMany() 
+            .HasForeignKey(d => d.InspectorId)
+            .HasPrincipalKey(i => i.NIK);
     }
 
 }

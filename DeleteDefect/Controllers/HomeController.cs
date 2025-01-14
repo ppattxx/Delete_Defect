@@ -22,10 +22,9 @@ namespace DeleteDefect.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            // Cek apakah user sudah login
             if (HttpContext.Session.GetString("UserNIK") != null)
             {
-                return RedirectToAction("Index", "Defect"); // Redirect ke halaman utama jika sudah login
+                return RedirectToAction("Index", "Defect");
             }
             return View();
         }
@@ -41,11 +40,9 @@ namespace DeleteDefect.Controllers
                 if (BCrypt.Net.BCrypt.Verify(Password, user.PasswordHash))
                 {
                     // Tentukan role berdasarkan NIK
-                    string[] adminPrefixes = { "7098", "6950", "7217" };
+                    string[] adminPrefixes = { "admin", "adnan", "hasbi" };
                     string role = adminPrefixes.Any(prefix => user.NIK.StartsWith(prefix)) ? "Admin" : "User";
 
-
-                    // Simpan informasi user dan role ke session
                     HttpContext.Session.SetString("UserNIK", user.NIK);
                     HttpContext.Session.SetString("UserName", user.Name);
                     HttpContext.Session.SetString("UserRole", role);
@@ -81,7 +78,6 @@ namespace DeleteDefect.Controllers
         [HttpPost]
         public IActionResult Logout()
         {
-            // Hapus semua data session
             HttpContext.Session.Clear();
 
             return RedirectToAction("Index");

@@ -2,7 +2,7 @@
 {
     public class DefectNameModel
     {
-        public int Id { get; set; } // Primary key
+        public int Id { get; set; }
         public string DefectName { get; set; }
     }
 }

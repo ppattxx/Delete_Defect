@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 public class InspectorModel
 {
     [Key]
-    [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // Auto-increment
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public string Id { get; set; }
 
     required public string PasswordHash { get; set; }
